@@ -19,7 +19,7 @@ djoser
 ### **Запускаем проект в dev режиме на OC Linux**
 Клонировать репозиторий с GitHub
 ```
-git clone git@github.com:Dmitriy-boytsev/api_yamdb.git
+git clone git@github.com:Dmitriy-boytsev/api_yatube.git
 ```
 
 Установить виртуальное окружение venv
